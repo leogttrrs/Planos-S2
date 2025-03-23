@@ -1,0 +1,11 @@
+body {
+    background-color: #2e3337;
+}
+
+.navbar {
+    background-color: brown;
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
